@@ -85,3 +85,13 @@ h1{
 #video a{
     color: blue;
 }
+
+#formulario2{
+    text-align: center;
+    background-color: gray;
+}
+
+#formulario{
+    text-align: center;
+    background-color: #04AA6D;
+}
