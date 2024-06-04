@@ -1,0 +1,108 @@
+body{
+    background-color: gray;
+    font-size: 19px;
+    color: aliceblue;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+img{
+    width: auto;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lista-con-espacios li{
+    margin-bottom: 5px;
+}
+
+.lista-con-espacios li:last-child {
+    margin-bottom: 0;
+}
+
+.lista-con-espacios2 li{
+    margin-bottom: 15px;
+}
+
+.lista-con-espacios2 li:last-child {
+    margin-bottom: 0;
+}
+
+#aplicación1{
+    color: white;
+}
+
+#aplicación2{
+    color: white;
+}
+
+h1{
+    border-bottom: 10px white;
+}
+
+
+/* Estilos CSS para la barra de navegación */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+#titulo1{
+    background-color: #333;
+    padding: 16px 0px;
+    margin: 1px ;
+}
+
+#video{
+    text-align: center;
+    padding-bottom: 0px;
+    background-color: #b9b9b9;
+}
+
+#video a{
+    color: #12553c;
+}
+
+#formulario2{
+    text-align: center;
+    background-color: gray;
+}
+
+#formulario{
+    text-align: center;
+    background-color: #b9b9b9;
+    color: #04AA6D;
+}
+
+
+
+h4{
+    text-align: justify;
+}
+
+h3{
+    text-align: justify;
+}
